@@ -1,0 +1,5 @@
+.nav{padding: 10px 0;}
+.logo{margin-left: 100px;}
+.menu{margin-left: 100px;}
+.search{margin-left: 50px;}
+.logo,.menu,.search{display: inline-block;}
